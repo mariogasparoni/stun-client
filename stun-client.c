@@ -9,7 +9,6 @@
 #include <stdio.h>
 
 // google's stun server:
-//    64.233.186.127:19302
 #define DEFAULT_STUN_SERVER "64.233.186.127"
 #define DEFAULT_STUN_PORT 19302
 
